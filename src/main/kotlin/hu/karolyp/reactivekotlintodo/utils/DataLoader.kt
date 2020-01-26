@@ -1,5 +1,7 @@
-package hu.karolyp.reactivekotlintodo
+package hu.karolyp.reactivekotlintodo.utils
 
+import hu.karolyp.reactivekotlintodo.model.Todo
+import hu.karolyp.reactivekotlintodo.repository.TodoRepository
 import org.slf4j.LoggerFactory
 import org.springframework.boot.ApplicationArguments
 import org.springframework.boot.ApplicationRunner

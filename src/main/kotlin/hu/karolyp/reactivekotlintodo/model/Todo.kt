@@ -1,4 +1,4 @@
-package hu.karolyp.reactivekotlintodo
+package hu.karolyp.reactivekotlintodo.model
 
 import org.springframework.data.annotation.Id
 import org.springframework.data.mongodb.core.mapping.Document
